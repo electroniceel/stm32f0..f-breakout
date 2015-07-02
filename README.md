@@ -23,15 +23,16 @@ Power LED and User LED (on PA0, PF1 or disconnected).
 Currently supported microcontrollers
 ------------------------------------
 
-..* STM32F030F4
-..* STM32F031F4
-..* STM32F031F6
-..* STM32F038F6
-..* STM32F042F4 (USB header must be connected externally)
-..* STM32F042F6 (USB header must be connected externally)
-..* STM32F070F6 (USB header must be connected externally)
+* STM32F030F4
+* STM32F031F4
+* STM32F031F6
+* STM32F038F6
+* STM32F042F4 (USB header must be connected externally)
+* STM32F042F6 (USB header must be connected externally)
+* STM32F070F6 (USB header must be connected externally)
 
 License
 -------
 ![CC-BY-SA](https://licensebuttons.net/l/by-sa/4.0/88x31.png)
+
 This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/).
