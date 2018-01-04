@@ -31,6 +31,18 @@ Currently supported microcontrollers
 * STM32F042F6 (USB header must be connected externally)
 * STM32F070F6 (USB header must be connected externally)
 
+Schematics & Layout
+-------------------
+
+Schematics & Layout were done in KiCAD.
+
+[Schematics as PDF](https://github.com/electroniceel/stm32f0..f-breakout/raw/master/schematics.pdf)
+
+Picture
+-------
+
+![Module and raw PCB](https://github.com/electroniceel/stm32f0..f-breakout/raw/master/pictures/board%2Bsample.jpg)
+
 License
 -------
 ![CC-BY](https://licensebuttons.net/l/by/4.0/88x31.png)
