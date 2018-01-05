@@ -6,19 +6,14 @@ A breakout module for STM32F0 microcontrollers in TSSOP20 footprint.
 Basic Features
 --------------
 
-Focus on small footprint and direct access to all pins.
-
-Provides a 8 pin Micro-MaTch header for easy access to SWD and UART.
-
-Pushbutton for Reset (press <1 second) and starting the bootloader (press >3 seconds).
-
-Onboard LDO regulator (standard SOT-23-5) can be used for VDD and VDDA, just VDD or disabled completely.
-
-Use of a crystal (SMT 3.2x2.5mm) is optional.
-
-Options can be configured using solder bridges.
-
-Power LED and User LED (on PA0, PF1 or disconnected).
+* Focus on small footprint and direct access to all pins.
+* Provides a 8 pin Micro-MaTch header for easy access to SWD and UART.
+* Pushbutton for Reset (press <1 second) and starting the bootloader (press >3 seconds).
+* Onboard LDO regulator (standard SOT-23-5) can be used for VDD and VDDA, just VDD or disabled completely.
+* Use of a crystal (SMT 3.2x2.5mm) is optional.
+* Options can be configured using solder bridges.
+* Power LED and User LED (on PA0, PF1 or disconnected).
+* Size: 20x32mm or 10x8 pins in the standard 2.54mm raster
 
 Currently supported microcontrollers
 ------------------------------------
